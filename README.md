@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ansh4121
 - 👀 I’m interested in DATA SCIENCE AND MACHINE LEARNING
-- 🌱 I’m currently learning Tensorflow 2.0
+- 🌱 I’m currently learning MLops
