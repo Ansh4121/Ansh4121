@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Ansh4121
+- 👋 Hi, I’m Ansh 
 - 👀 I’m interested in DATA SCIENCE AND MACHINE LEARNING
 - 🌱 I’m currently learning MLops
